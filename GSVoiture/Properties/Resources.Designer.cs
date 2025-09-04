@@ -73,9 +73,29 @@ namespace GSVoiture.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Close_Window_icon {
+            get {
+                object obj = ResourceManager.GetObject("Close-Window-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Footer_Logo_Adeauplast {
             get {
                 object obj = ResourceManager.GetObject("Footer-Logo-Adeauplast", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_close_24 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-close-24", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

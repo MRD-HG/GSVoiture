@@ -8,23 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace GSVoiture.Menu
+namespace GSVoiture.Voiture
 {
-    public partial class MenuPage : Form
+    public partial class ModifierVoiture : UserControl
     {
-        public MenuPage()
+        public ModifierVoiture()
         {
             InitializeComponent();
-        }
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-          
         }
     }
 }
