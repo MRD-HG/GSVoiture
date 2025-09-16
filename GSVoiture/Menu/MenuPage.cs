@@ -24,7 +24,12 @@ namespace GSVoiture.Menu
 
         private void button3_Click(object sender, EventArgs e)
         {
-          
+
+        }
+
+        private void documentVoiture1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

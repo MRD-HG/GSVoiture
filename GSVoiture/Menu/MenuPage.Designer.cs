@@ -140,6 +140,7 @@
             documentVoiture1.Size = new Size(913, 701);
             documentVoiture1.TabIndex = 2;
             documentVoiture1.Visible = false;
+            documentVoiture1.Load += documentVoiture1_Load;
             // 
             // MenuPage
             // 
